@@ -12,7 +12,7 @@ Overall, the popultion of users for bikesharing in NYC of August included mostly
 
 Across both genders (and thus the overall users), riders' average use of the bikeshare was for a duration of 5-6 hours.
 
-!(Checkout_Users](https://github.com/tarajarell/bikesharing/blob/main/Checkout_Users.jpg)
+![Checkout_Users](https://github.com/tarajarell/bikesharing/blob/main/Checkout_Users.jpg)
 ![Checkout_Gender](https://github.com/tarajarell/bikesharing/blob/main/Checkout_Gender.jpg)
 
 Male Subscribers in partular utilized bikesharing services the most on Thursdays in August 2019.
