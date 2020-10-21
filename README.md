@@ -14,7 +14,7 @@ Overall, the popultion of users for bikesharing in NYC of August included mostly
 ![Checkout_Gender](https://github.com/tarajarell/bikesharing/blob/main/Checkout_Gender.jpg)
 
 
-Across both genders (and thus the overall users), riders' average use of the bikeshare was for a duration of 5-6 hours.
+Across both genders (and thus the overall users), use of the bikeshare occurred at its peak from 4-6.
 
 ![Trips_Weekday_Gender](https://github.com/tarajarell/bikesharing/blob/main/Trips_Weekday_Gender.jpg)
 
@@ -26,4 +26,6 @@ Male Subscribers in partular utilized bikesharing services the most on Thursdays
 Across both genders (and thus the overall users), riders' use of the bikeshare was most prominent during commute times in the morning and evening.
 
 ## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+Key demographics which appear to have been successful indicators for use of bikesharing services include gender (male), commuters (those with typical employment schedules), and the use of a subscription (likely with perks) in addition to a pay-as-you-go customer model. This is highly refreshing, because while the population density is much higher in New York than Iowa, the overall percentage of folks per capita who work a full time weekday work schedule may be more similar. 
+
 
